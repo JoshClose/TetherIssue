@@ -1,0 +1,8 @@
+node_modules/
+[Bb]in/
+[Oo]bj/
+dist/
+.vs/
+*.lock
+*.log
+*.user

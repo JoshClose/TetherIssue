@@ -1,0 +1,43 @@
+{
+	"name": "POW",
+	"version": "0.0.1",
+	"license": "UNLICENSED",
+	"dependencies": {
+		"bootstrap": "4.0.0-alpha.6",
+		"domain-task": "^3.0.0",
+		"event-source-polyfill": "^0.0.9",
+		"extract-text-webpack-plugin": "^2.1.2",
+		"history": "^4.6.3",
+		"jquery": "^3.2.1",
+		"node-noop": "^1.0.0",
+		"react": "^15.6.1",
+		"react-dom": "^15.6.1",
+		"react-hot-loader": "next",
+		"react-redux": "^5.0.5",
+		"react-router-dom": "^4.1.1",
+		"react-router-redux": "next",
+		"redux": "^3.7.0",
+		"redux-logger": "^3.0.6",
+		"redux-thunk": "^2.2.0",
+		"reselect": "^3.0.1",
+		"tether": "^1.4.0"
+	},
+	"devDependencies": {
+		"aspnet-prerendering": "^2.0.6",
+		"aspnet-webpack": "^1.0.29",
+		"aspnet-webpack-react": "^2.0.0",
+		"babel-core": "^6.25.0",
+		"babel-loader": "^7.1.0",
+		"babel-preset-latest": "^6.24.1",
+		"babel-preset-react": "^6.24.1",
+		"babel-preset-stage-2": "^6.24.1",
+		"css-loader": "^0.28.4",
+		"file-loader": "^0.11.2",
+		"json-loader": "^0.5.4",
+		"style-loader": "^0.18.2",
+		"url-loader": "^0.5.9",
+		"webpack": "2.6.1",
+		"webpack-hot-middleware": "^2.18.0",
+		"webpack-merge": "^4.1.0"
+	}
+}

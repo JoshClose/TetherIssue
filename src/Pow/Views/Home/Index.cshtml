@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="root" asp-prerender-module="ClientApp/dist/server">Loading...</div>
+
+@section scripts {
+	<script src="https://npmcdn.com/tether@1.4.0/dist/js/tether.min.js"></script>
+	<script src="~/dist/client.js" asp-append-version="true"></script>
+}
